@@ -1,7 +1,7 @@
 # 토이 프로젝트 "yum-yum"
 실제 배포/운영까지 **full-cycle develop**을 목표로 합니다.
 
-## Overview
+## 개요
 
 내가 키우는 반려동물이 나와 똑같은 사람이 된다면?
 
@@ -19,7 +19,7 @@
 <img src="https://i.imgur.com/GMfphK6.png" width="80%">
 <img src="https://i.imgur.com/gI2ibJT.png" width="80%">
 
-## function
+## 기능
 
 - 회원
   - 회원 등록
@@ -46,7 +46,7 @@
     - 품종 삭제
     - 품종 목록
 
-## Tech Stack
+## 기술 스택
 - **Language**
   - java
    
