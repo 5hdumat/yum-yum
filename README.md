@@ -48,6 +48,25 @@
     - 품종 삭제
     - 품종 목록
 
+## 애플리케이션 아키텍쳐
+
+### 계층형 구조 사용
+
+<img src="https://i.imgur.com/X5IjpwK.png" width="80%">
+
+- Controller: 웹 계층
+- Service: 비즈니스 로직, 트랜잭션 처리
+- Repository: JPA를 통해 DB와 직접 커뮤니케이션하는 계층, EntityManager 사용
+- domain: 도메인 Entity가 모여있는 계층 (모든 계층에서 사용)
+
+### 패키지 구조
+- toy.yumyum
+  - domain
+  - exception 
+  - repository 
+  - service 
+  - controller
+  
 ## 기술 스택
 - **Language**
   - java
@@ -60,5 +79,8 @@
 
 - **Library**
   - Querydsl 
+
+- **RDB**
+  - H2 Database 2.1.200
 
  
