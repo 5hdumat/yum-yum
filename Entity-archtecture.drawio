@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T15:55:33.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="kEYp3LrLDjEyDrHMNG62" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T10:16:28.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="pFDV7tTT4PnPFjgfC5NE" version="17.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1538" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="ZGqFRhJ1InIE41oUpykp-31" value="name: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="ZGqFRhJ1InIE41oUpykp-29" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ZGqFRhJ1InIE41oUpykp-32" value="ingredients: Map" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="ZGqFRhJ1InIE41oUpykp-29" vertex="1">
+        <mxCell id="ZGqFRhJ1InIE41oUpykp-32" value="ingredients: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="ZGqFRhJ1InIE41oUpykp-29" vertex="1">
           <mxGeometry y="78" width="160" height="22" as="geometry" />
         </mxCell>
         <mxCell id="ZGqFRhJ1InIE41oUpykp-55" value="recalls: List" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" parent="ZGqFRhJ1InIE41oUpykp-29" vertex="1">
